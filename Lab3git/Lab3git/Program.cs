@@ -1,6 +1,6 @@
 ﻿namespace Lab3git
 {
-    class Proram
+    class Program
     {
         static void Main(String[] args)
         {
