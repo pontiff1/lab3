@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\pepel\\Desktop\\Учеба\\4семак\\Языка_программирования\\лабы\\lab3\\Lab3git\\Lab3git\\Lab3git.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\pepel\\Desktop\\Учеба\\4семак\\Языка_программирования\\лабы\\lab3\\Lab3git\\Lab3git\\Lab3git.csproj",
         "packagesPath": "C:\\Users\\pepel\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\pepel\\Desktop\\Учеба\\4семак\\Языка_программирования\\лабы\\lab3\\Lab3git\\Lab3git\\obj\\",
+=======
+    "C:\\Users\\pepel\\Desktop\\Учеба\\4семак\\Языка_программирования\\лабы\\lab3Another\\Lab3git\\Lab3git\\Lab3git.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pepel\\Desktop\\Учеба\\4семак\\Языка_программирования\\лабы\\lab3Another\\Lab3git\\Lab3git\\Lab3git.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pepel\\Desktop\\Учеба\\4семак\\Языка_программирования\\лабы\\lab3Another\\Lab3git\\Lab3git\\Lab3git.csproj",
+        "projectName": "Lab3git",
+        "projectPath": "C:\\Users\\pepel\\Desktop\\Учеба\\4семак\\Языка_программирования\\лабы\\lab3Another\\Lab3git\\Lab3git\\Lab3git.csproj",
+        "packagesPath": "C:\\Users\\pepel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pepel\\Desktop\\Учеба\\4семак\\Языка_программирования\\лабы\\lab3Another\\Lab3git\\Lab3git\\obj\\",
+>>>>>>> fb8441f99cd3f47186a840a9d54cb2a45a3eaf9b
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pepel\\AppData\\Roaming\\NuGet\\NuGet.Config",
