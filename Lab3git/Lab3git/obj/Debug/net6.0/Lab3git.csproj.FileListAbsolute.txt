@@ -1,0 +1,15 @@
+C:\Users\pepel\Desktop\Учеба\4семак\Языка_программирования\лабы\lab3\Lab3git\Lab3git\obj\Debug\net6.0\Lab3git.csproj.AssemblyReference.cache
+C:\Users\pepel\Desktop\Учеба\4семак\Языка_программирования\лабы\lab3\Lab3git\Lab3git\obj\Debug\net6.0\Lab3git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pepel\Desktop\Учеба\4семак\Языка_программирования\лабы\lab3\Lab3git\Lab3git\obj\Debug\net6.0\Lab3git.AssemblyInfoInputs.cache
+C:\Users\pepel\Desktop\Учеба\4семак\Языка_программирования\лабы\lab3\Lab3git\Lab3git\obj\Debug\net6.0\Lab3git.AssemblyInfo.cs
+C:\Users\pepel\Desktop\Учеба\4семак\Языка_программирования\лабы\lab3\Lab3git\Lab3git\obj\Debug\net6.0\Lab3git.csproj.CoreCompileInputs.cache
+C:\Users\pepel\Desktop\Учеба\4семак\Языка_программирования\лабы\lab3\Lab3git\Lab3git\bin\Debug\net6.0\Lab3git.exe
+C:\Users\pepel\Desktop\Учеба\4семак\Языка_программирования\лабы\lab3\Lab3git\Lab3git\bin\Debug\net6.0\Lab3git.deps.json
+C:\Users\pepel\Desktop\Учеба\4семак\Языка_программирования\лабы\lab3\Lab3git\Lab3git\bin\Debug\net6.0\Lab3git.runtimeconfig.json
+C:\Users\pepel\Desktop\Учеба\4семак\Языка_программирования\лабы\lab3\Lab3git\Lab3git\bin\Debug\net6.0\Lab3git.dll
+C:\Users\pepel\Desktop\Учеба\4семак\Языка_программирования\лабы\lab3\Lab3git\Lab3git\bin\Debug\net6.0\Lab3git.pdb
+C:\Users\pepel\Desktop\Учеба\4семак\Языка_программирования\лабы\lab3\Lab3git\Lab3git\obj\Debug\net6.0\Lab3git.dll
+C:\Users\pepel\Desktop\Учеба\4семак\Языка_программирования\лабы\lab3\Lab3git\Lab3git\obj\Debug\net6.0\refint\Lab3git.dll
+C:\Users\pepel\Desktop\Учеба\4семак\Языка_программирования\лабы\lab3\Lab3git\Lab3git\obj\Debug\net6.0\Lab3git.pdb
+C:\Users\pepel\Desktop\Учеба\4семак\Языка_программирования\лабы\lab3\Lab3git\Lab3git\obj\Debug\net6.0\Lab3git.genruntimeconfig.cache
+C:\Users\pepel\Desktop\Учеба\4семак\Языка_программирования\лабы\lab3\Lab3git\Lab3git\obj\Debug\net6.0\ref\Lab3git.dll
